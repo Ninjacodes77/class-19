@@ -4,7 +4,7 @@ var gameState = "play";
 
 function preload() {
   runner_img = loadImage("SUPERMAN.png");
-  path_img = loadImage("road.png");
+  path_img = loadImage("Road.png");
   obstacle_img = loadImage("knight.png");
 }
 
